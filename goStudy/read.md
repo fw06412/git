@@ -1,1 +1,1 @@
-study go in 2016=06-09
+# study go in 2016-06-09
